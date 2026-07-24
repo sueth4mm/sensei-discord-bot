@@ -1,0 +1,73 @@
+{
+    "PROJECT": {
+        "NAME": "SenSei4M",
+        "VERSION": "v0.1.0 Alpha",
+        "AUTHOR": "@sueth.4M"
+    },
+    "PERMISSIONS": {
+        "ADMIN_ONLY": true,
+        "CONSOLE_ONLY": true
+    },
+    "BOT": {
+        "GUILD_ID": 000000000000000000,
+        "TIMEZONE": "America/Sao_Paulo",
+        "AUTO_RESTART_HOURS": 6
+    },
+    "SECURITY": {
+        "ADMIN_RESET_PASSWORD": null,
+        "ENABLE_RESET": true,
+        "MAX_LOGIN_ATTEMPTS": 5,
+        "LOCKOUT_MINUTES": 15
+    },
+    "CHANNELS": {
+        "RANK": 000000000000000000,
+        "LOGS": 000000000000000000,
+        "CONSOLE": 000000000000000000,
+        "WELCOME": 000000000000000000,
+        "GOODBYE": 000000000000000000,
+        "SERVER_STATUS": 000000000000000000
+    },
+    "ROLES": {
+        "WINNER": 000000000000000000,
+        "MEMBER": 000000000000000000
+    },
+    "VOICE": {
+        "AFK_CHANNEL": 000000000000000000
+    },
+    "EMBEDS": {
+        "SUCCESS_COLOR": 5763719,
+        "ERROR_COLOR": 15158332,
+        "WARNING_COLOR": 16776960,
+        "LOG_COLOR": 3447003,
+        "INFO_COLOR": 3447003,
+        "RANKING_COLOR": 15844367,
+        "STATS_COLOR": 10181046,
+        "ADMIN_COLOR": 15105570,
+        "THUMBNAILS": {
+            "WELCOME": true,
+            "GOODBYE": true,
+            "LOGS": false,
+            "PANELS": false
+        },
+        "FOOTER_TEXT": "by @seu_usuario",
+        "FOOTER_ENABLED": true
+    },
+    "SERVER_PANEL": {
+        "TITLE": "📊 Estatísticas do Servidor",
+        "MESSAGE_ID": null
+    },
+    "WELCOME": {
+        "TITLE": "👋 Bem-vindo!",
+        "MESSAGE": "Seja muito bem-vindo ao nosso servidor!"
+    },
+    "GOODBYE": {
+        "TITLE": "👋 Até logo!",
+        "MESSAGE": "Esperamos te ver novamente em breve."
+    },
+    "LOGS": {
+        "IGNORED_CHANNELS": [
+            000000000000000000,
+            000000000000000000
+        ]
+    }
+}
